@@ -58,7 +58,9 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "copper_edge_clearance|157796760|123467339|ed6b161a-ce26-41f8-b6af-5909e4f294a6|5bd68d90-0c2e-4eee-9cc7-f5d7c7b68188"
+      ],
       "meta": {
         "version": 2
       },
@@ -130,7 +132,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
