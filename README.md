@@ -46,12 +46,12 @@ Modular unibody keyboard with two VIK modules.
 
 Please see main `config.h` and `rules.mk` for comments and available options.
 
-- [source code](https://github.com/zzeneg/qmk_firmware/tree/feature/zzeneg/keyboards/stront)
+- [source code](https://github.com/zzeneg/qmk_firmware/tree/feature/zzeneg/keyboards/trio)
 - [pre-compiled files](https://github.com/zzeneg/qmk_firmware/releases/tag/zzeneg)
 
 #### Vial
 
-- [source code](https://github.com/zzeneg/vial-qmk/tree/feature/zzeneg/keyboards/stront)
+- [source code](https://github.com/zzeneg/vial-qmk/tree/feature/zzeneg/keyboards/trio)
 - [pre-compiled files](https://github.com/zzeneg/vial-qmk/releases/tag/zzeneg)
 
 ## Bill of materials
